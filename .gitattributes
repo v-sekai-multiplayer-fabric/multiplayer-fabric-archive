@@ -1,3 +1,0 @@
-
-# Parquet is already zstd-compressed; never let git normalize it.
-*.parquet binary
